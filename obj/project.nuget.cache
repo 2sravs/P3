@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1sMO/x7TX5fenl7LBNRY9xbKTQFioMt9mYqfMOeHud+JKuBiTQ0GU6bGZTYJmoZV70DToHNStpEdBYJNi0Ne/g==",
+  "success": true,
+  "projectFilePath": "D:\\simplIlearn\\Phase-4\\Practice\\PracticeApp1\\PracticeApp1\\PracticeApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\venka\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512"
+  ],
+  "logs": []
+}
